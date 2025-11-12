@@ -223,8 +223,18 @@
     "type": "monstergroup",
     "monsters": [
       { "monster": "mon_zombie_shady", "weight": 90 },
-      { "monster": "mon_coal_zombie", "weight": 150 },
+      { "monster": "mon_coal_zombie", "weight": 120 },
       { "monster": "mon_zombie_rust", "weight": 110 },
+      { "monster": "mon_zombie_tough", "weight": 60 }
+    ]
+  },
+  {
+    "id": "GROUP_ZOMBIE_TECHNICIAN_UPGRADE",
+    "type": "monstergroup",
+    "monsters": [
+      { "monster": "mon_zombie_winged", "weight": 30 },
+      { "monster": "mon_zombie_static", "weight": 120 },
+      { "monster": "mon_zombie_smoker", "weight": 20 },
       { "monster": "mon_zombie_tough", "weight": 60 }
     ]
   }
