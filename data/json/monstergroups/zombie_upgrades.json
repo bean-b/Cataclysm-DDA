@@ -222,7 +222,8 @@
     "id": "GROUP_ZOMBIE_MINER_UPGRADE",
     "type": "monstergroup",
     "monsters": [
-      { "monster": "mon_zombie_shady", "weight": 150 },
+      { "monster": "mon_zombie_shady", "weight": 90 },
+      { "monster": "mon_coal_zombie", "weight": 150 },
       { "monster": "mon_zombie_rust", "weight": 110 },
       { "monster": "mon_zombie_tough", "weight": 60 }
     ]

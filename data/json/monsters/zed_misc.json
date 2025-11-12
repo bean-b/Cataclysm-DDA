@@ -872,7 +872,7 @@
     "id": "mon_coal_zombie",
     "type": "MONSTER",
     "name": { "str": "anthracite zombie" },
-    "description": "A blackened , and it emits a constant haze of thick black smoke.",
+    "description": "This zombie’s body is blackened and twisted, Its coal-dusted flesh and tattered work gear are wreathed in a constant haze of black smoke.",
     "copy-from": "mon_zombie_miner",
     "color": "dark_gray",
     "looks_like": "mon_zombie_smoker",
